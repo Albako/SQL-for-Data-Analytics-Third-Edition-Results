@@ -1,4 +1,4 @@
-# Solved Excersises for the Third Edition
+# Solved Excersises for the Third Edition of SQL for Data Analytics
 Every excersise that I've solved is in **`results/`** directory.
 
 ## Results
